@@ -1,3 +1,4 @@
+/*
 #include <stdio.h>
 
 struct Produto {
@@ -15,7 +16,9 @@ float calcular_total(struct Produto produtos[], int tamanho) {
 }
 
 int main() {
-  int num_produtos;
+
+    
+    int num_produtos;
   printf("Quantos produtos você quer cadastrar? ");
   scanf("%d", &num_produtos);
 
@@ -54,3 +57,5 @@ int main() {
 
   return 0;
 }
+
+ */
