@@ -1,4 +1,4 @@
-/*
+
   #include <stdio.h>
 // Exercicio 2
 int contar_vogais(char *str);
@@ -34,4 +34,3 @@ int contar_vogais(char *str) {
   }
   return count;
 }
-*/

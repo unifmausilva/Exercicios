@@ -1,4 +1,4 @@
-/*
+
 #include <stdio.h>
 
 void troca_letra(char *str) {
@@ -27,4 +27,3 @@ int main() {
 }
 
 
-*/

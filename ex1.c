@@ -1,4 +1,4 @@
-/*
+
 #include <stdio.h>
 
 int main(void) {
@@ -23,4 +23,3 @@ int main(void) {
   }
   printf("A soma dos números do Array é : %d\n", soma);
 }
-*/

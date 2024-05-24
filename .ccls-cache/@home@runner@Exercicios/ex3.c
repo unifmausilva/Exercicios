@@ -1,4 +1,4 @@
-/*
+
 #include <stdio.h>
 
 struct Produto {
@@ -58,4 +58,4 @@ int main() {
   return 0;
 }
 
- */
+ 
